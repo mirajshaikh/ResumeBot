@@ -1,0 +1,16 @@
+{
+	"name": "resumebot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Miraj",
+	"license": "ISC",
+	"dependencies": {
+		"docxtemplater": "^3.29.0",
+		"pizzip": "^3.1.1",
+		"telegraf": "^4.7.0"
+	}
+}
